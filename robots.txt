@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pahgaegaj.alexgol.ec/sitemap.xml
